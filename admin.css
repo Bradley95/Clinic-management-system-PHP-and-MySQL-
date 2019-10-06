@@ -1,0 +1,55 @@
+#add{
+	margin-left: 250px;
+}
+.primary{
+	color:#fff;
+	background-color:#286090;
+	width: 150px;
+}
+.danger{
+	color: #fff;
+	background-color:#d9534f;
+	width: 150px;
+}
+form [type='text'], [type='password'],[type='email']{
+	border-radius: 5px;
+	width: 700px;
+	padding:10px;
+}
+select{
+	border-radius: 5px;
+	width: 700px;
+	padding:10px;
+}
+.avatar{
+width:50px;
+height:50px;
+border-radius:60%;
+margin-left: 250px;
+}
+.out{
+	
+	font-size: 20px;
+	text-decoration: none;
+	color: cornflowerblue;
+}
+ul{
+	list-style-type:none;
+}
+ul li{
+	width:250px;
+	float: left;
+	padding:1px;
+	display:block;
+}
+.gen{
+	text-decoration: none;
+	color:#fff;
+	background-color:#08BD1D;
+	width: 150px;
+	border-radius: 2px;
+}
+.gen :hover{
+	background-color: chartreuse;
+	color: black;
+}

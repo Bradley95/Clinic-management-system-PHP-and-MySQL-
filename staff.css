@@ -1,0 +1,41 @@
+.container{
+	margin-top: 40px;
+}
+.btn-primary{
+	color: #fff;
+	background-color:#286090;
+	border-radius: 4px;
+	width: 150px;
+}
+.btn-danger{
+	color: #fff;
+	background-color:#d9534f;
+	border-radius: 4px;
+	width: 150px;
+}
+form [type='text'], [type='password']{
+	border-radius: 5px;
+}
+select{
+	border-radius: 5px;
+}
+a{
+	text-decoration:none;
+	display:block;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:18px;
+}
+.staff{
+	display: block;
+	color: aqua;
+	padding: 4px;
+	border: none;
+	margin-left:75%;
+	font: bolder;
+}
+.match{
+	background-color:#E0D97E;
+	padding: 5px;
+	width: 250px;
+	margin-left: 32px;
+}

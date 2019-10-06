@@ -1,0 +1,47 @@
+/* CSS Document */
+body{background-color: floralwhite;}
+.container{
+	margin-left: 145px;
+}
+.col{
+	font-family: 'Lato', sans-serif;
+	padding-right:80px; 
+	
+	
+}
+.head{
+	color: #1984f1;
+	font-family: 'Lato', sans-serif;
+
+}
+.heading{
+	color: black;
+	border-bottom: 2px solid #1984f1;
+}
+table {
+    /* make the border continuous (without gaps between columns) */
+    border-collapse: collapse;
+	bottom:50px;
+}
+.heading2{
+	border-bottom:1px solid black;
+}
+.page{
+	background-color:#DCE5B6;
+	width: 61%;
+	padding: 4px;
+	position: absolute;
+	top: 220px;
+	color: black;
+	font-family: 'Lato', sans-serif;
+}
+td{
+	padding: 10px;
+}
+.last{
+	color: #1984f1;
+	font-family: 'Lato', sans-serif;
+}
+.last1{
+	font-family: 'Lato', sans-serif;
+}

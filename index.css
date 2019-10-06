@@ -1,0 +1,108 @@
+body{
+	background-color:whitesmoke;
+}
+.side{
+	margin-left: 800px;
+	bottom:50px;
+}
+.middle{
+	position: absolute;
+	margin-left: 38px;
+}
+h3{
+    color:#31708f;
+	background-color:#d9edf7;
+	width: 95%;
+	margin-left: 32px;
+	border-radius: 5px;
+	border: 10px;
+	padding: 5px;
+}
+
+.reg input[type="text"], [type="password"], [type="email"]{
+	border: none;
+	outline:none;
+	border-bottom: 1px solid #535353;
+	padding: 3px;
+	background: transparent;
+	width: 500px;
+	
+}
+
+.staff{
+	display: block;
+	color: aqua;
+	padding: 4px;
+	border: none;
+	float: right;
+	font: bolder;
+}
+
+.primary{
+	color:#fff;
+	background-color:#286090;
+	width: 150px;
+}
+.danger{
+	color: #fff;
+	background-color:#d9534f;
+	width: 150px;
+}
+.block-quote{
+	margin-left: 32px;
+	font-size: 18px;
+}
+#add{
+	width: 600px;
+}
+.container{
+	margin-top: 100px;
+}
+#bar{
+    color:#31708f;
+	background-color:#d9edf7;
+    padding-top:2px;
+	margin:0px auto;
+	height:60px;
+	margin-top:0px;
+	border-radius:5px;
+	width: 850px;
+	margin-left: 140px;
+}
+ul{
+	list-style-type:none;
+}
+a{
+	text-decoration:none;
+	display:block;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:18px;
+	color: cornflowerblue;
+}
+ul li{
+	width:150px;
+	float: left;
+	text-align:center; 
+	padding:1px;
+	display:block;
+}
+.gen{
+	color:#fff;
+	background-color:#08BD1D;
+	width: 150px;
+	border-radius: 2px;
+}
+.con{
+	background-color: #BF2F32;
+	margin-left: 780px;
+	border-radius: 5px;
+	border: 10px;
+	padding: 5px;
+	text-align: center;
+}
+.match{
+	background-color:#E0D97E;
+	padding: 5px;
+	width: 250px;
+	margin-left: 32px;
+}
